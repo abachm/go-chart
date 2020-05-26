@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/wcharczuk/go-chart"
+	"github.com/abachm/go-chart"
 )
 
 func main() {

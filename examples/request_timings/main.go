@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/wcharczuk/go-chart"
+	"github.com/abachm/go-chart"
 )
 
 func main() {
